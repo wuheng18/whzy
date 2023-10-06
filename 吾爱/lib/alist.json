@@ -1,0 +1,21 @@
+{
+  "drives": [
+   
+    {
+      "name": "杜比",
+      "server": "https://dubi.tk"
+    },
+   
+    {
+      "name": "星夢",
+      "server": "https://pan.bashroot.top"
+    },
+
+  
+  
+    {
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com"
+    }
+  ]
+}
